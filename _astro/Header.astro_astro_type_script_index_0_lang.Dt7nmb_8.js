@@ -1,0 +1,1 @@
+var e=document.querySelector(`.menu`);e?.addEventListener(`keydown`,t=>{t.key===`Escape`&&e.open&&(e.open=!1,e.querySelector(`summary`).focus())});

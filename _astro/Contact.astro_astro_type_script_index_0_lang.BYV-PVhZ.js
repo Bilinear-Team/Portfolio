@@ -1,0 +1,1 @@
+var e=document.querySelector(`#copy-btn`),t=document.querySelector(`#copy-status`);e&&t&&navigator.clipboard&&(e.hidden=!1,e.addEventListener(`click`,async()=>{try{await navigator.clipboard.writeText(document.querySelector(`#contact-phone`).textContent.trim()),t.textContent=e.dataset.done??``}catch{t.textContent=e.dataset.fail??``}}));

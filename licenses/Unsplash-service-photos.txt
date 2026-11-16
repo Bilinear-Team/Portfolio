@@ -1,0 +1,19 @@
+Image sources in the Services section
+
+The Services section uses 5 photos from Unsplash (AI, Web, App, Game, CRM & ERP) under the Unsplash License (https://unsplash.com/license) and 1 photo from Pexels (Data & Analytics) under the Pexels License (https://www.pexels.com/license/).
+
+AI: photo by Josh Hild, https://unsplash.com/photos/two-people-cross-a-street-at-a-crosswalk-Llx4vSMw4zw
+The detection boxes are an illustration added to the photo. They are not the output of a real model.
+
+Web: photo by Julio Lopez, https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-desk-w1rPj8irA5s
+The screen content was edited with AI. Purple interface colours were changed to blue on 2026-11-13.
+
+App: photo by HUUM, https://unsplash.com/photos/person-holding-a-smartphone-with-a-calendar-app-outdoors-d3nwL3fKu6U
+The screen content was edited with AI.
+
+Game: photo by Brian J. Tromp, https://unsplash.com/photos/a-close-up-of-a-person-holding-a-video-game-controller-NG4V-cLF_tE
+
+Data & Analytics: photo by RDNE Stock project, https://www.pexels.com/photo/magnifying-glass-on-printed-paper-with-graph-7947749/ , Pexels License (https://www.pexels.com/license/). Cropped to 16:9 (crop box on the 6720x4480 original: left 0, top 700, width 6720, height 3780).
+
+CRM & ERP: photo by Swello, https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-table-_0GRD6fL3CM
+The screen content was edited with AI. The project owner selected this image on 2026-11-13. The screen area was perspective-corrected to a flat rectangle and cropped to 16:9 on 2026-11-13. Purple interface colours were changed to blue on 2026-11-13.
